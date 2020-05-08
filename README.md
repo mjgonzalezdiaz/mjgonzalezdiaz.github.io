@@ -4,7 +4,7 @@
 
 ## Creación Multimedia Interactiva (Fac. Bellas artes)
 
-**Autor:** 
+**Autor:** María José González Díaz
 
 **Título:** 
 
