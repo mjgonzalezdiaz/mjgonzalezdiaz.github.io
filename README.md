@@ -6,9 +6,9 @@
 
 **Autor:** María José González Díaz
 
-**Título:** 
+**Título:** Cat Detective
 
-**Resumen:**
+**Resumen:** Juego en el que el protagonista es un gato detective que tiene que ir resolviéndo un caso. En el menú del juego puedes encontrar información sobre la artista, galería de los escenarios, galería de los personajes y los créditos. El juego se desarrolla como una novela visual, por lo que tienes que estar atento a las interacciones entre los personajes. En algunas habitaciones tendrás que buscar pistas para resolver el caso y encontrar al culpable.
 
 **Licencia: (creative Commons)**
 
