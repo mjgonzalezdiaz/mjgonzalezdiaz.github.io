@@ -1,4 +1,4 @@
-## (CAT Detective)
+## CAT Detective
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,15 +8,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Cat Detective
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  María José González Díaz
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto consiste en un juego que va en busca del misterio, donde el protagonista es un detective que tiene que resolver un crimen junto con la ayuda del jugador que tendrá que buscar pistas, resolver un mini cuestionario y finalmente desvelar el nombre del culpable resolviendo así el crimen. 
 
-**Estilo/género:**  Novela visual
+**Estilo/género:**  Novela visual/juego
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
