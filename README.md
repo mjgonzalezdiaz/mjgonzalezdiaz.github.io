@@ -20,7 +20,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
-https://github.mjgonzalezdiaz.com//mjgonzalezdiaz/master/salida/p_gonzalezdiazmariajoselogo.png
+https://raw.mjgonzalezdiaz.com//mjgonzalezdiaz/master/salida/p_gonzalezdiazmariajoselogo.png
 
 (insertar imágenes a resolucion de 100px alto)
 
