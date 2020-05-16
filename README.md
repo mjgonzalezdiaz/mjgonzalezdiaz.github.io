@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Cat Detective
 
-**Web:**   (url github.io)
+**Web:**   https://github.com/mjgonzalezdiaz/mjgonzalezdiaz.github.io
 
 **Autor:**  María José González Díaz
 
@@ -20,9 +20,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
+https://github.mjgonzalezdiaz.com//mjgonzalezdiaz/master/salida/p_gonzalezdiazmariajoselogo.png
+
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
 **Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
