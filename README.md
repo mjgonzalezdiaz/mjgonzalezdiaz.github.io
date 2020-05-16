@@ -18,11 +18,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Novela visual/juego
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : El logo que muestro es mi logo personal que he usado como firma. Este logo se muestra en el menú del juego. 
 
-https://raw.mjgonzalezdiaz.com//mjgonzalezdiaz/master/salida/p_gonzalezdiazmariajoselogo.png
-
-(insertar imágenes a resolucion de 100px alto)
+![](salida/p_gonzalezdiaz%20mariajose%20logo.png)
 
 **Resolución:** 800x600px tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
