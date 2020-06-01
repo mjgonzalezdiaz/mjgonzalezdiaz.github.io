@@ -72,7 +72,8 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
 - Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- Juegos del Profesor Layton 
+- Serie de animación del Detective Conan 
 
 
 
@@ -84,7 +85,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a gente joven interesada en el mundo del misterio y en el mundo de la animación cartoon. 
+- Orientado al público adolescente que le gusten las novelas visuales e interesados en el mundo del misterio.
 
 
 
@@ -126,9 +127,27 @@ Este  proyecto es interesante porque ...
 
 **Recursos y materiales audiovisuales:**
 
-* Música: Suspence-Rally Wender   Trick or treat-Matti Paalanen   Horror Suspense-Blueside Music  
-* Imágenes:  
+* Música: 
+  -Suspence-Rally Wender   
+  -Trick or treat-Matti Paalanen  
+  -Horror Suspense-Blueside Music  
+
+* Imágenes: 
+Fondos de:
+  -Giaonp
+  -Jake Bowkett
+  -Julian Seifert
+  -Edith Finch
+  
+  Todos los personajes han sido diseñados y realizados por María José González Díaz
+   
 * Tipografía: 
+  - Bookman Old Style
+  - Consolas
+  - Malgun Gothic Semilight
+  - Charlemagne STD
+  - Arial
+  - Courier New
 
 **Herramientas utilizadas**
 
