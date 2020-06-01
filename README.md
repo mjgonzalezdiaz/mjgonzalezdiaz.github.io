@@ -53,7 +53,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-![](master/navegacion.jpg)
+![](navegacion.jpg)
 
 
 
