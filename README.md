@@ -22,11 +22,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ![](salida/p_gonzalezdiaz%20mariajose%20logo.png)
 
-**Resolución:** 800x600px tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px tamaño fijo, ajustándose a la pantalla.
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:** Internet explorer, Google Chrome  (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 40 MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
@@ -35,7 +35,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Twitter
 - Instagram
 
 
@@ -85,7 +84,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a gente joven interesada en el mundo del misterio y en el mundo de la animación cartoon. 
 
 
 
@@ -127,14 +126,15 @@ Este  proyecto es interesante porque ...
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
+* Música: Suspence-Rally Wender   Trick or treat-Matti Paalanen   Horror Suspense-Blueside Music  
 * Imágenes:  
-* Tipografía
+* Tipografía: 
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Audacity 
+- Avidemux 
 
 
 
