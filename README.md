@@ -43,9 +43,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
+En la primera pantalla aparece una introducción que nos lleva al menú principal donde encontramos varias opciones como los créditos, la galería o jugar. 
 
+El juego es una novela visual en la que el protagonista es un detective que tiene que resolver un caso en la mansión de los Yagami. 
+A lo largo del juego, el jugador tendrá que buscar pistas para conseguir resolver el caso por sí mismo. 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
 
@@ -53,7 +55,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-![](navegacion.jpg)
+![](navegacion1.jpg)
 
 
 
