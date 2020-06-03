@@ -14,7 +14,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  María José González Díaz
 
-**Resumen** : Este proyecto consiste en un juego que va en busca del misterio, donde el protagonista es un detective que tiene que resolver un crimen junto con la ayuda del jugador que tendrá que buscar pistas, resolver un mini cuestionario y finalmente desvelar el nombre del culpable resolviendo así el crimen. 
+**Resumen** : En este proyecto he desarrollado un juego de misterio. El protagonista del juego es un detective que tiene que resolver un crimen junto con la ayuda del jugador. El jugador tendrá que buscar pistas, resolver un breve cuestionario y, finalmente, desvelar el nombre del culpable. 
 
 **Estilo/género:**  Novela visual/juego
 
@@ -34,8 +34,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Instagram
+- Github
+
 
 
 
@@ -52,7 +52,7 @@ A lo largo del juego, el jugador tendrá que buscar pistas para conseguir resolv
 
 ![](story3.png)
 
-Después de haber interactuado con todos los personajes y explorar las diferentes salas, el detective irá a la última zona en la cual se harán unas preguntas que el jugador debe responder. Tras esto, aparecerá un campo de texto en el que se tendrá que introducir el nombre del culpable. Si el jugador falla dos veces le llevará a un final alternativo en el que pierde. Si se acierta, se podrá ver el final bueno en el que el jugador gana. 
+Después de haber interactuado con todos los personajes y explorar las diferentes salas, el detective irá a la última pantalla en la que se le harán unas preguntas que el jugador debe responder. Tras esto, aparecerá un campo de texto en el que se tendrá que introducir el nombre del culpable. Si el jugador falla dos veces, el juego le llevará a un final alternativo en el que se le comunica que ha perdido. Si se acierta con el culpable, se podrá ver una escena final donde se resuelve el caso y el jugador gana. 
 
 ![](story4.png)
 
@@ -82,15 +82,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
 - Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- Juegos del Profesor Layton 
-- Serie de animación del Detective Conan 
-
+- Juegos del Profesor Layton (https://www.nintendo.es/Juegos/Portal-de-Nintendo/Portal-para-la-serie-Layton/Portal-de-la-serie-Layton-627605.html)
+- Serie de animación del Detective Conan (https://www.detectiveconanworld.com/wiki/Anime)
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
-
+Este  proyecto es interesante porque se ha creado un producto que puede ser de interés para el público joven al que le guste la novela de misterio. Se ha desarrollado un juego que, sin ser muy complejo, puede asegurar momentos de diversión a los jóvenes. 
 
 
 **Publico / audiencia**
@@ -105,11 +103,15 @@ Este  proyecto es interesante porque ...
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Juego: en el juego, aparte de introducir diferentes escenas con diálogos, he introducido elementos que el jugador tiene que buscar. En el último elemento que tiene que encontrar el jugador, incorporé un contador de tiempo. Después de esto, hay un pequeño quizz de tres preguntas, que llevan a una pantalla donde el jugador tiene que introducir el nombre del culpable en un campo de texto. Si el jugador falla dos veces habrá perdido el juego. 
+
+- Vídeo: el vídeo lo he incorporado en la opción de inspiración que aparece en el menú principal. Este vídeo fue editado con Avidemux. Se eliminaron algunas partes del vídeo que no eran necesarias y se optimizó la calidad.  
+
+- Instrucciones y ayuda al usuario: el juego es muy intuitivo y en las partes en que van apareciendo las pistas, el quizz y el campo de entrada se dan indicaciones para que el jugador sepa qué tiene que hacer.  
+
+- Menús y elementos de navegación (botones): en el juego hay un menú principal que muestra varias opciones. A lo largo del juego los botones son esenciales, ya que sirven para continuar los diálogos, para que aparezca la pista que ha encontrado el jugador y para poder elegir entre las distintas opciones del quizz. 
+
+- Sonido: en el juego usé tres piezas de música que van sonando en diferentes situaciones. Éstas las edité con Audacity. También se han añadido sonidos que se reproducen al pulsar algún botón. 
 
 
 
@@ -138,18 +140,20 @@ Este  proyecto es interesante porque ...
 **Recursos y materiales audiovisuales:**
 
 * Música: 
+ 
   -Suspence-Rally Wender   
   -Trick or treat-Matti Paalanen  
   -Horror Suspense-Blueside Music  
 
 * Imágenes: 
+
 Fondos de:
   -Giaonp
   -Jake Bowkett
   -Julian Seifert
   -Edith Finch
   
-  Todos los personajes han sido diseñados y realizados por María José González Díaz
+  Todos los personajes han sido diseñados y realizados por María José González Díaz.
    
 * Tipografía: 
   - Bookman Old Style
