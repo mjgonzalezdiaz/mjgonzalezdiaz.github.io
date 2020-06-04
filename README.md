@@ -81,7 +81,6 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
 - Juegos del Profesor Layton (https://www.nintendo.es/Juegos/Portal-de-Nintendo/Portal-para-la-serie-Layton/Portal-de-la-serie-Layton-627605.html)
 - Serie de animación del Detective Conan (https://www.detectiveconanworld.com/wiki/Anime)
 
@@ -111,7 +110,7 @@ Este  proyecto es interesante porque se ha creado un producto que puede ser de i
 
 - Menús y elementos de navegación (botones): en el juego hay un menú principal que muestra varias opciones. A lo largo del juego los botones son esenciales, ya que sirven para continuar los diálogos, para que aparezca la pista que ha encontrado el jugador y para poder elegir entre las distintas opciones del quizz. 
 
-- Sonido: en el juego usé tres piezas de música que van sonando en diferentes situaciones. Éstas las edité con Audacity. También se han añadido sonidos que se reproducen al pulsar algún botón. 
+- Sonido: en el juego usé tres piezas de música que van sonando en diferentes situaciones. Éstas las edité con Audacity. También se han añadido sonidos que se reproducen al pulsar algún botón. Además, en el menú incluí una opción donde se puede subir o bajar el volumen de la música y los efectos especiales. 
 
 
 
@@ -148,6 +147,7 @@ Este  proyecto es interesante porque se ha creado un producto que puede ser de i
 * Imágenes: 
 
 Fondos de:
+  
   -Giaonp
   -Jake Bowkett
   -Julian Seifert
