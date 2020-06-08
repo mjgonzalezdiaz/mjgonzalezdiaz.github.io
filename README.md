@@ -104,7 +104,7 @@ Este  proyecto es interesante porque se ha creado un producto que puede ser de i
 
 - Juego: en el juego, aparte de introducir diferentes escenas con diálogos, he introducido elementos que el jugador tiene que buscar. En el último elemento que tiene que encontrar el jugador, incorporé un contador de tiempo. Después de esto, hay un pequeño quizz de tres preguntas, que llevan a una pantalla donde el jugador tiene que introducir el nombre del culpable en un campo de texto. Si el jugador falla dos veces habrá perdido el juego. 
 
-- Vídeo: el vídeo lo he incorporado en la opción de inspiración que aparece en el menú principal. Este vídeo fue editado con Avidemux. Se eliminaron algunas partes del vídeo que no eran necesarias y se optimizó la calidad.  
+- Vídeo: el vídeo lo he incorporado en la opción de inspiración que aparece en el menú principal. Este vídeo fue editado con Avidemux. Se eliminaron algunas partes del vídeo que no eran necesarias para disminuir el peso del archivo. 
 
 - Instrucciones y ayuda al usuario: el juego es muy intuitivo y en las partes en que van apareciendo las pistas, el quizz y el campo de entrada se dan indicaciones para que el jugador sepa qué tiene que hacer.  
 
@@ -112,18 +112,21 @@ Este  proyecto es interesante porque se ha creado un producto que puede ser de i
 
 - Sonido: en el juego usé tres piezas de música que van sonando en diferentes situaciones. Éstas las edité con Audacity. También se han añadido sonidos que se reproducen al pulsar algún botón. Además, en el menú incluí una opción donde se puede subir o bajar el volumen de la música y los efectos especiales. 
 
+-Galería de fotos: esta opción se puede encontrar en el menú principal. Hay una galería donde se muestran los personajes y hay otra donde se muestran los escenarios del juego. Los personajes fueron diseñados y realizados por mi mediante la herramienta de Photoshop. Los fondos los cogí de otros artistas a los que he nombrado en los créditos. Sin embargo, estos fondos fueron modificados con Photoshop para cambiarles las texturas y en algunos les cambié las luces para que todos los escenarios concordaran. También reduje los tamaños de las imágenes para que no pesaran tanto. El fondo negro con las huellas lo realicé con Photoshop. 
+
 
 
 ### Etapa 3: Problemas identificados
 
 (que consideras que no  funciona correctamente y por qué )
-
+Uno de los problemas es el no haber usado diferentes expresiones en los personajes que les diese más interactividad. 
+Otro problema, es que podría haber hecho que la flecha de continuar el diálogo flotase para reforzar esa interactividad.
 
 
 # 4. Conclusiones 
 
 (explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
+Los problemas que detecté van dirigidos a la parte de interacción. Primero encontramos la no presencia de diferentes expresiones en los personajes, que le daría más vida al juego. Segundo, la flecha para continuar el diálogo podría estar como flotando para reforzar el aspecto de que se puede usar. Sabiendo los problemas que he encontrado, podrían ser una mejora para el juego. Tal vez podría no haber hecho la historia tan lineal y hacer que el jugador pudiese elegir las habitaciones a las que quiere ir para explorar. 
 
 
 
@@ -148,12 +151,12 @@ Este  proyecto es interesante porque se ha creado un producto que puede ser de i
 
 Fondos de:
   
-  -Giaonp
-  -Jake Bowkett
-  -Julian Seifert
-  -Edith Finch
+  - Giaonp
+  - Jake Bowkett
+  - Julian Seifert
+  - Edith Finch
   
-  Todos los personajes han sido diseñados y realizados por María José González Díaz.
+ Todos los personajes han sido diseñados y realizados por María José González Díaz.
    
 * Tipografía: 
   - Bookman Old Style
@@ -168,12 +171,15 @@ Fondos de:
 - Hippani Animator 5.1
 - Audacity 
 - Avidemux 
+- Photoshop
 
 
 
 (imagen de la licencia, copiar y pegar aquí la correcta)
 
 https://creativecommons.org/licenses/?lang=es
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 Mayo 2020
 
