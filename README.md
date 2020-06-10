@@ -24,7 +24,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resolución:** 800x600px tamaño fijo, ajustándose a la pantalla.
 
-**Probado en:** Internet explorer, Google Chrome  (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:** Internet explorer, Chrome, Firefox, I-pad  (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
 **Tamaño proyecto:** 41 MB 
 
@@ -119,13 +119,13 @@ Este  proyecto es interesante porque se ha creado un producto que puede ser de i
 ### Etapa 3: Problemas identificados
 
 (que consideras que no funciona correctamente y por qué)
-El principal problema identificado es que, pienso que con algo de tiempo, podría haber incorporado una mayor interactividad al juego. Por ejemplo, se podían haber insertado distintas expresiones para los personajes del juego. Otra posibilidad que se me ocurre es que la flecha de continuación de diálogo flotase para reforzar la interactividad.
+El principal problema identificado es que en el servidor Chrome la tipografía del diálogo no se ve con la fuente original. Sin embargo, en Firefox y en Internet Explorer sí se ve la tipografía correcta. Otro pequeño fallo lo encontramos en la pantalla donde se tiene que adivinar el nombre del culpable. Cuando se introduce un nombre que no coincide con el del culpable, no suena el sonido correspondiente que advierte del error, sino que sigue sonando la música normal. Por último, en Chrome la música no se reproduce automáticamente. Y en Firefox hay que activar el permiso para la reproducción del audio.
 
 
 # 4. Conclusiones 
 
 (explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro)
-Los problemas detectados son los ya mencionados acerca de la posibilidad de incorporar una mayor interactividad al juego. En primer lugar, incluir expresiones a los pesonajes le daría una mayor sensación de dinamismo al juego. En segundo lugar, dar apariencia de que la flecha de continuación de diálogo flota, facilita la interacción, ya que está llamando la atención sobre el jugador y dándole a entender que puede hacer uso de esa opción. 
+Los problemas detectados son los ya mencionados acerca del funcionamiento del juego en otros servidores. En cuanto a las mejoras en el futuro, en primer lugar, se me ocurre la posibilidad de incluir expresiones a los personajes. Esta simple modificación le daría una mayor sensación de dinamismo al juego. En segundo lugar, se podría dar apariencia de que la flecha de continuación de diálogo flota. También facilitaría la interacción, ya que se está llamando la atención sobre el jugador, dándole a entender que puede hacer uso de esa opción. 
 
 Finalmente, se me ocurre como posibilidad, no haber hecho la historia tan lineal. Ahora se fuerza al jugador a seguir una determinada secuencia. Como alternativa, se podría haber dado al jugador la opción de elegir la habitación hacia la que quiere dirigirse. 
 
@@ -176,7 +176,7 @@ Fondos de:
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+
 
 https://creativecommons.org/licenses/?lang=es
 
