@@ -24,7 +24,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resolución:** 800x600px tamaño fijo, ajustándose a la pantalla.
 
-**Probado en:** Internet explorer, Chrome, Firefox, I-pad  (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:** Internet explorer, Chrome, Firefox, I-pad  
 
 **Tamaño proyecto:** 41 MB 
 
@@ -32,7 +32,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Fecha** : 14/05/2020
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios**:
 
 - Github
 
@@ -87,20 +87,19 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque se ha creado un producto que puede ser de interés para el público joven al que le guste la novela de misterio. Se ha desarrollado un juego que, sin ser muy complejo, puede asegurar momentos de diversión a los jóvenes. 
+El principal interés del proyecto es haber creado un producto que puede ser atractivo para el público joven. Un público al que le atraigan las novelas visuales y el misterio. De hecho, para mi ha sido muy motivador crear un producto en el que he podido proyectar mis gustos que, además, puedo compartir con más gente, haciendo que disfruten con este juego. En definitiva, ha sido realmente motivador poder crear un juego en el que he podido desarrollar mi imaginación sin ningún límite. 
 
 
 **Publico / audiencia**
 
-- Orientado al público adolescente que le gusten las novelas visuales e interesados en el mundo del misterio.
+
+- Orientado al público entre los 13 y 25 años que le gusten las novelas visuales e interesados en el mundo del misterio.
 
 
 
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
-
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
 - Juego: en el juego, aparte de introducir diferentes escenas con diálogos, he introducido elementos que el jugador tiene que buscar. En el último elemento que tiene que encontrar el jugador, incorporé un contador de tiempo. Después de esto, hay un pequeño quizz de tres preguntas, que llevan a una pantalla donde el jugador tiene que introducir el nombre del culpable en un campo de texto. Si el jugador falla dos veces habrá perdido el juego. 
 
@@ -118,20 +117,14 @@ Este  proyecto es interesante porque se ha creado un producto que puede ser de i
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no funciona correctamente y por qué)
 El principal problema identificado es que en el servidor Chrome la tipografía del diálogo no se ve con la fuente original. Sin embargo, en Firefox y en Internet Explorer sí se ve la tipografía correcta. Otro pequeño fallo lo encontramos en la pantalla donde se tiene que adivinar el nombre del culpable. Cuando se introduce un nombre que no coincide con el del culpable, no suena el sonido correspondiente que advierte del error, sino que sigue sonando la música normal. Por último, en Chrome la música no se reproduce automáticamente en la primera escena, pero en las siguientes suena sin ningún problema. Y en Firefox hay que activar el permiso para la reproducción del audio.
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro)
 Los problemas detectados son los ya mencionados acerca del funcionamiento del juego en el servidor de Chrome. En cuanto a las mejoras en el futuro, en primer lugar, se me ocurre la posibilidad de incluir expresiones a los personajes. Esta simple modificación le daría una mayor sensación de dinamismo al juego. En segundo lugar, se podría dar apariencia de que la flecha de continuación de diálogo flota. También facilitaría la interacción, ya que se está llamando la atención sobre el jugador, dándole a entender que puede hacer uso de esa opción. 
 
-Finalmente, se me ocurre como posibilidad, no haber hecho la historia tan lineal. Ahora se fuerza al jugador a seguir una determinada secuencia. Como alternativa, se podría haber dado al jugador la opción de elegir la habitación hacia la que quiere dirigirse. 
-
-
-
-
+Finalmente, se me ocurre como posibilidad, no haber hecho la historia tan lineal. En el juego se fuerza al jugador a seguir una determinada secuencia. Como alternativa, se podría haber dado al jugador la opción de elegir la habitación hacia la que quiere dirigirse. 
 
 
 # 5 Referencias 
