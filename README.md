@@ -112,20 +112,20 @@ Este  proyecto es interesante porque se ha creado un producto que puede ser de i
 
 - Sonido: en el juego usé tres piezas de música que van sonando en diferentes situaciones. Éstas las edité con Audacity. También se han añadido sonidos que se reproducen al pulsar algún botón. Además, en el menú incluí una opción donde se puede subir o bajar el volumen de la música y los efectos especiales. 
 
--Galería de fotos: esta opción se puede encontrar en el menú principal. Hay una galería donde se muestran los personajes y hay otra en la que se muestran los escenarios del juego. Los personajes fueron diseñados y realizados por mi mediante la herramienta Photoshop. Los fondos son imágenes de realizados por autores que son citados en los créditos. Sin embargo, estos fondos han sido modificados, no se han dejado en su estado original. Las modificaciones realizadas con Photoshop de texturas y luminosidad se han hecho para mantener la coherencia de los distintos escenarios. También reduje los tamaños de las imágenes para que no pesaran tanto. El fondo negro con las huellas, también lo realicé con Photoshop. 
+- Galería de fotos: esta opción se puede encontrar en el menú principal. Hay una galería donde se muestran los personajes y hay otra en la que se muestran los escenarios del juego. Los personajes fueron diseñados y realizados por mi mediante la herramienta Photoshop. Los fondos son imágenes de realizados por autores que son citados en los créditos. Sin embargo, estos fondos han sido modificados, no se han dejado en su estado original. Las modificaciones realizadas con Photoshop de texturas y luminosidad se han hecho para mantener la coherencia de los distintos escenarios. También reduje los tamaños de las imágenes para que no pesaran tanto. El fondo negro con las huellas, también lo realicé con Photoshop. 
 
 
 
 ### Etapa 3: Problemas identificados
 
 (que consideras que no funciona correctamente y por qué)
-El principal problema identificado es que en el servidor Chrome la tipografía del diálogo no se ve con la fuente original. Sin embargo, en Firefox y en Internet Explorer sí se ve la tipografía correcta. Otro pequeño fallo lo encontramos en la pantalla donde se tiene que adivinar el nombre del culpable. Cuando se introduce un nombre que no coincide con el del culpable, no suena el sonido correspondiente que advierte del error, sino que sigue sonando la música normal. Por último, en Chrome la música no se reproduce automáticamente. Y en Firefox hay que activar el permiso para la reproducción del audio.
+El principal problema identificado es que en el servidor Chrome la tipografía del diálogo no se ve con la fuente original. Sin embargo, en Firefox y en Internet Explorer sí se ve la tipografía correcta. Otro pequeño fallo lo encontramos en la pantalla donde se tiene que adivinar el nombre del culpable. Cuando se introduce un nombre que no coincide con el del culpable, no suena el sonido correspondiente que advierte del error, sino que sigue sonando la música normal. Por último, en Chrome la música no se reproduce automáticamente en la primera escena, pero en las siguientes suena sin ningún problema. Y en Firefox hay que activar el permiso para la reproducción del audio.
 
 
 # 4. Conclusiones 
 
 (explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro)
-Los problemas detectados son los ya mencionados acerca del funcionamiento del juego en otros servidores. En cuanto a las mejoras en el futuro, en primer lugar, se me ocurre la posibilidad de incluir expresiones a los personajes. Esta simple modificación le daría una mayor sensación de dinamismo al juego. En segundo lugar, se podría dar apariencia de que la flecha de continuación de diálogo flota. También facilitaría la interacción, ya que se está llamando la atención sobre el jugador, dándole a entender que puede hacer uso de esa opción. 
+Los problemas detectados son los ya mencionados acerca del funcionamiento del juego en el servidor de Chrome. En cuanto a las mejoras en el futuro, en primer lugar, se me ocurre la posibilidad de incluir expresiones a los personajes. Esta simple modificación le daría una mayor sensación de dinamismo al juego. En segundo lugar, se podría dar apariencia de que la flecha de continuación de diálogo flota. También facilitaría la interacción, ya que se está llamando la atención sobre el jugador, dándole a entender que puede hacer uso de esa opción. 
 
 Finalmente, se me ocurre como posibilidad, no haber hecho la historia tan lineal. Ahora se fuerza al jugador a seguir una determinada secuencia. Como alternativa, se podría haber dado al jugador la opción de elegir la habitación hacia la que quiere dirigirse. 
 
@@ -157,7 +157,7 @@ Fondos de:
   - Julian Seifert
   - Edith Finch
   
- Todos los personajes han sido diseñados y realizados por María José González Díaz.
+ Todos los personajes han sido diseñados y realizados por mi.
    
 * Tipografía: 
   - Bookman Old Style
