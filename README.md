@@ -1,6 +1,6 @@
 ## CAT Detective
 
-Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
+Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Universidad de Granada
 
 
 
@@ -26,7 +26,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Probado en:** Internet explorer, Chrome, Firefox, I-pad  
 
-**Tamaño proyecto:** 41 MB 
+**Tamaño proyecto:** 41,7 MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento NoComercial 4.0 Internacional (CC BY-NC)
 
@@ -131,7 +131,9 @@ Finalmente, se me ocurre como posibilidad, no haber hecho la historia tan lineal
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+ - Gosho, A. (2014). Detective Conan. Volumen 8. Planeta D’Agostini (Edición Española). Barcelona.
+ -	Gosho, A. (2011). Detective Conan. Volumen 1. Planeta D’Agostini (Edición Española). Barcelona.
+
 
 **Recursos y materiales audiovisuales:**
 
@@ -171,7 +173,7 @@ Fondos de:
 
 
 
-https://creativecommons.org/licenses/?lang=es
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">licencia de Creative Commons Reconocimiento-NoComercial 4.0 Internacional</a>.
 
