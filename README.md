@@ -12,6 +12,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Web:**    https://mjgonzalezdiaz.github.io/CATDetective.html
 
+**Repositorio del proyecto**:https://github.com/mjgonzalezdiaz/mjgonzalezdiaz.github.io 
+
 **Autor:**  María José González Díaz
 
 **Resumen** : En este proyecto he desarrollado un juego de misterio. El protagonista del juego es un detective que tiene que resolver un crimen junto con la ayuda del jugador. El jugador tendrá que buscar pistas, resolver un breve cuestionario y, finalmente, desvelar el nombre del culpable. 
